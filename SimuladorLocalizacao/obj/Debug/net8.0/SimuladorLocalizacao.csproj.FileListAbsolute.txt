@@ -1,0 +1,14 @@
+C:\Users\fsp_livia.lopes\Downloads\SimuladorLocalizacao (1)\bin\Debug\net8.0\SimuladorLocalizacao.exe
+C:\Users\fsp_livia.lopes\Downloads\SimuladorLocalizacao (1)\bin\Debug\net8.0\SimuladorLocalizacao.deps.json
+C:\Users\fsp_livia.lopes\Downloads\SimuladorLocalizacao (1)\bin\Debug\net8.0\SimuladorLocalizacao.runtimeconfig.json
+C:\Users\fsp_livia.lopes\Downloads\SimuladorLocalizacao (1)\bin\Debug\net8.0\SimuladorLocalizacao.dll
+C:\Users\fsp_livia.lopes\Downloads\SimuladorLocalizacao (1)\bin\Debug\net8.0\SimuladorLocalizacao.pdb
+C:\Users\fsp_livia.lopes\Downloads\SimuladorLocalizacao (1)\obj\Debug\net8.0\SimuladorLocalizacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsp_livia.lopes\Downloads\SimuladorLocalizacao (1)\obj\Debug\net8.0\SimuladorLocalizacao.AssemblyInfoInputs.cache
+C:\Users\fsp_livia.lopes\Downloads\SimuladorLocalizacao (1)\obj\Debug\net8.0\SimuladorLocalizacao.AssemblyInfo.cs
+C:\Users\fsp_livia.lopes\Downloads\SimuladorLocalizacao (1)\obj\Debug\net8.0\SimuladorLocalizacao.csproj.CoreCompileInputs.cache
+C:\Users\fsp_livia.lopes\Downloads\SimuladorLocalizacao (1)\obj\Debug\net8.0\SimuladorLocalizacao.dll
+C:\Users\fsp_livia.lopes\Downloads\SimuladorLocalizacao (1)\obj\Debug\net8.0\refint\SimuladorLocalizacao.dll
+C:\Users\fsp_livia.lopes\Downloads\SimuladorLocalizacao (1)\obj\Debug\net8.0\SimuladorLocalizacao.pdb
+C:\Users\fsp_livia.lopes\Downloads\SimuladorLocalizacao (1)\obj\Debug\net8.0\SimuladorLocalizacao.genruntimeconfig.cache
+C:\Users\fsp_livia.lopes\Downloads\SimuladorLocalizacao (1)\obj\Debug\net8.0\ref\SimuladorLocalizacao.dll
