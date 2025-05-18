@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MottuTrackerAPI_Completo.props" />
+</Project>
