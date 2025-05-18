@@ -55,6 +55,6 @@ POST /api/Localizacao → Registra uma nova localização
 
 
 Desenvolvido por:
-Lívia Lopes
-Santiago de Gobbi 
-Henrique Pecora
+-Lívia Lopes;
+-Santiago de Gobbi; 
+-Henrique Pecora.
