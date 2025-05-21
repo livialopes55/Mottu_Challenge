@@ -1,0 +1,30 @@
+# Login no Azure
+az login
+
+# Criar grupo de recursos
+az group create --name MottuResourceGroup --location eastus
+
+# Criar VM Ubuntu
+az vm create   --resource-group MottuResourceGroup   --name MottuVM   --image Ubuntu2204   --admin-username azureuser   --generate-ssh-keys
+
+# Abrir porta 5000
+az vm open-port --port 5000 --resource-group MottuResourceGroup --name MottuVM
+
+# SSH na VM
+ssh azureuser@SEU_IP_PUBLICO
+
+# Instalar Docker
+sudo apt update
+sudo apt install -y docker.io
+sudo systemctl start docker
+sudo systemctl enable docker
+sudo usermod -aG docker azureuser
+
+# Clonar e rodar API
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+docker build -t mottutrackerapi .
+docker run -d -p 5000:80 --name api mottutrackerapi
+
+# Deletar grupo
+az group delete --name MottuResourceGroup --yes --no-wait

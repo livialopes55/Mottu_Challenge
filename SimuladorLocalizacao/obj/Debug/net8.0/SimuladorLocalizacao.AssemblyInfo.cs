@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimuladorLocalizacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c27706143a5cc28d00018d6c947a22f85f6b5c95")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimuladorLocalizacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimuladorLocalizacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

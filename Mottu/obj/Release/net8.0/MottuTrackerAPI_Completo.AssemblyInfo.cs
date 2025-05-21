@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MottuTrackerAPI_Completo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c27706143a5cc28d00018d6c947a22f85f6b5c95")]
 [assembly: System.Reflection.AssemblyProductAttribute("MottuTrackerAPI_Completo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MottuTrackerAPI_Completo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

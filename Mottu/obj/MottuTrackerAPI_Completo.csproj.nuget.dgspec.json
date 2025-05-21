@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fsp_livia.lopes\\Downloads\\MottuTrackerAPI_Completo\\MottuTrackerAPI_Completo.csproj": {}
+    "C:\\Users\\fsp_livia.lopes\\Desktop\\Mottu_Challenge\\Mottu\\MottuTrackerAPI_Completo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fsp_livia.lopes\\Downloads\\MottuTrackerAPI_Completo\\MottuTrackerAPI_Completo.csproj": {
+    "C:\\Users\\fsp_livia.lopes\\Desktop\\Mottu_Challenge\\Mottu\\MottuTrackerAPI_Completo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fsp_livia.lopes\\Downloads\\MottuTrackerAPI_Completo\\MottuTrackerAPI_Completo.csproj",
+        "projectUniqueName": "C:\\Users\\fsp_livia.lopes\\Desktop\\Mottu_Challenge\\Mottu\\MottuTrackerAPI_Completo.csproj",
         "projectName": "MottuTrackerAPI_Completo",
-        "projectPath": "C:\\Users\\fsp_livia.lopes\\Downloads\\MottuTrackerAPI_Completo\\MottuTrackerAPI_Completo.csproj",
+        "projectPath": "C:\\Users\\fsp_livia.lopes\\Desktop\\Mottu_Challenge\\Mottu\\MottuTrackerAPI_Completo.csproj",
         "packagesPath": "C:\\Users\\fsp_livia.lopes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fsp_livia.lopes\\Downloads\\MottuTrackerAPI_Completo\\obj\\",
+        "outputPath": "C:\\Users\\fsp_livia.lopes\\Desktop\\Mottu_Challenge\\Mottu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

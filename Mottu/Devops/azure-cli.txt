@@ -1,0 +1,20 @@
+﻿az login
+
+az group create --name MottuRG --location eastus
+
+az vm create \
+  --resource-group MottuRG \
+  --name MottuVM \
+  --image Ubuntu2204 \
+  --admin-username azureuser \
+  --generate-ssh-keys
+
+az vm open-port --resource-group MottuRG --name MottuVM --port 80
+az vm open-port --resource-group MottuRG --name MottuVM --port 443
+az vm open-port --resource-group MottuRG --name MottuVM --port 8080
+
+az vm run-command invoke \
+  --resource-group MottuRG \
+  --name MottuVM \
+  --command-id RunShellScript \
+  --scripts "curl -fsSL https://get.docker.com -o get-docker.sh && sh get-docker.sh && sudo usermod -aG docker azureuser"

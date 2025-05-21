@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mG9BqWz0HVE=",
+  "dgSpecHash": "0LeC+UC3ceE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fsp_livia.lopes\\Downloads\\MottuTrackerAPI_Completo\\MottuTrackerAPI_Completo.csproj",
+  "projectFilePath": "C:\\Users\\fsp_livia.lopes\\Desktop\\Mottu_Challenge\\Mottu\\MottuTrackerAPI_Completo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fsp_livia.lopes\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\fsp_livia.lopes\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
